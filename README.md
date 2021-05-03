@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samer98-cpu  age 14 
 - 🌱 I’m currently learning ... scripting
-- 💞️ I’m i like a game they name Awesoem Zombie Sniper
+- 💞️ I’m i like a game they name Awesome Zombie Sniper
 - 📫 How to reach me ...
 
 <!---
