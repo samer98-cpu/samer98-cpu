@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samer98-cpu  age 15 
 - 🌱 I’m currently learning ... scripting
-- 💞️ I’m i like a game they name Awesome Zombie Sniper
-- 📫 How to reach me ...
+- 📫 How to reach me ... eanail sanerabada57@gmail.com
 
 <!---
 samer98-cpu/samer98-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
